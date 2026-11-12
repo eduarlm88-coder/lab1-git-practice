@@ -1,1 +1,1 @@
-Server host: localhost
+Server timeout: 30s
